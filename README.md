@@ -122,3 +122,11 @@ flyer and card. Do not scale them up.
    website uses.
 3. **The claims on the flyer** — "10+ years in Surrey" and "5,000+ students taught" are the
    evergreen versions you approved for the website, so print and web now say the same thing.
+
+---
+
+## Banner colour options (29 August 2026)
+
+Seven colour schemes for the banner, same layout in all of them, in `colour-options/`.
+Start with `colour-options/banner-colour-options-grid.png`, then the blurred
+`banner-colour-distance-test.png`. Details and the reasoning: `colour-options/COLOUR-OPTIONS.md`.
