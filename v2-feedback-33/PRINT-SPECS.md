@@ -122,22 +122,3 @@ flyer and card. Do not scale them up.
    website uses.
 3. **The claims on the flyer** — "10+ years in Surrey" and "5,000+ students taught" are the
    evergreen versions you approved for the website, so print and web now say the same thing.
-
----
-
-## Banner colour options (29 August 2026)
-
-Seven colour schemes for the banner, same layout in all of them, in `colour-options/`.
-Start with `colour-options/banner-colour-options-grid.png`, then the blurred
-`banner-colour-distance-test.png`. Details and the reasoning: `colour-options/COLOUR-OPTIONS.md`.
-
-## v2 — feedback 33 (current)
-
-`v2-feedback-33/` is the deep navy scheme with the five changes from feedback 33:
-the old tagline removed, the course-name line removed, "Book a trial class today"
-removed, the grades line cut back to Grades 1 to 12, and the "From I Don't Get It
-to I've Got This." line added small. The subject line and the phone number grew
-into the space that freed up. `WHATS-CHANGED.md` in that folder has the numbers
-and `banner-before-and-after.png` shows the two blurred by the same amount.
-
-The files in the root of this repo are v1 and are kept only for comparison.
