@@ -131,7 +131,7 @@ Seven colour schemes for the banner, same layout in all of them, in `colour-opti
 Start with `colour-options/banner-colour-options-grid.png`, then the blurred
 `banner-colour-distance-test.png`. Details and the reasoning: `colour-options/COLOUR-OPTIONS.md`.
 
-## v2 — feedback 33 (current)
+## v2 — feedback 33
 
 `v2-feedback-33/` is the deep navy scheme with the five changes from feedback 33:
 the old tagline removed, the course-name line removed, "Book a trial class today"
@@ -139,5 +139,17 @@ removed, the grades line cut back to Grades 1 to 12, and the "From I Don't Get I
 to I've Got This." line added small. The subject line and the phone number grew
 into the space that freed up. `WHATS-CHANGED.md` in that folder has the numbers
 and `banner-before-and-after.png` shows the two blurred by the same amount.
+
+## v3 — feedback 34 (current)
+
+`v3-feedback-34/` is the pack to print from. Feedback 34 settled the banner
+question — the picture pasted in it is the main landscape file, so the ALT with
+"IN PERSON AND ONLINE" has been dropped — and everything else in it was the
+business card: "TUTORING IN SURREY" off the front, the name set as JAGJIT UPPAL,
+P.ENG., the title changed to DIRECTOR, and the two dense course lines on the back
+reduced to one. `business-card-before-and-after.png` shows both sides.
+
+Every other file in v3 is byte-identical to the same file in v2 — only the two
+card files changed.
 
 The files in the root of this repo are v1 and are kept only for comparison.
